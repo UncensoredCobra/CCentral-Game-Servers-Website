@@ -1,14 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "CCentral Games",
+    "title": "CCentral Game Server",
     "description": "",
     "home_page_url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website",
     "feed_url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/feed.json",
     "user_comment": "",
-    "icon": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/website/CCentral-Logo.jpeg",
     "author": {
-        "name": "C08RA"
+        "name": "Admin@CCentral"
     },
     "items": [
+        {
+            "id": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
+            "url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
+            "title": "CCentral Priv Valhiem Server",
+            "summary": "Server Name: CCentral Priv Valheim Password: BigTingz",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/Valheim-CCentral-Pic.jpeg\" alt=\"\" width=\"554\" height=\"554\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xs.jpeg 640w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-sm.jpeg 768w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-md.jpeg 1024w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-lg.jpeg 1366w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xl.jpeg 1600w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-2xl.jpeg 1920w\"></figure>\n<p>Server Name: CCentral Priv Valheim </p>\n<p>Password: BigTingz</p>",
+            "author": {
+                "name": "Admin@CCentral"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-11T20:21:59-04:00",
+            "date_modified": "2026-09-11T20:24:07-04:00"
+        }
     ]
 }
