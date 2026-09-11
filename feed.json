@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CCentral Games",
     "description": "",
-    "home_page_url": "https://gaming.ccentral.xyz",
-    "feed_url": "https://gaming.ccentral.xyz/feed.json",
+    "home_page_url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website",
+    "feed_url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/feed.json",
     "user_comment": "",
-    "icon": "https://gaming.ccentral.xyz/media/website/CCentral-Logo.jpeg",
+    "icon": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/website/CCentral-Logo.jpeg",
     "author": {
         "name": "C08RA"
     },
