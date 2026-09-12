@@ -10,19 +10,32 @@
     },
     "items": [
         {
-            "id": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
-            "url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
-            "title": "CCentral Priv Valhiem Server",
-            "summary": "Server Name: CCentral Priv Valheim Password: BigTingz",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/Valheim-CCentral-Pic.jpeg\" alt=\"\" width=\"554\" height=\"554\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xs.jpeg 640w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-sm.jpeg 768w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-md.jpeg 1024w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-lg.jpeg 1366w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xl.jpeg 1600w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-2xl.jpeg 1920w\"></figure>\n<p>Server Name: CCentral Priv Valheim </p>\n<p>Password: BigTingz</p>",
-            "image": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/Valheim-CCentral-Pic-2.jpeg",
+            "id": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-private-minecraft/",
+            "url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-private-minecraft/",
+            "title": "CCentral Private Minecraft",
             "author": {
                 "name": "Admin@CCentral"
             },
             "tags": [
+                   "Servers"
+            ],
+            "date_published": "2026-09-12T09:39:07-04:00",
+            "date_modified": "2026-09-12T09:39:07-04:00"
+        },
+        {
+            "id": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
+            "url": "https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/servers/ccentral-priv-valhiem-server/",
+            "title": "CCentral Private Valhiem Server",
+            "summary": "<figure class=\"post__image post__image--left align-left\"><img loading=\"lazy\"  src=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/Valheim-CCentral-Pic.jpeg\" alt=\"\" width=\"200\" height=\"200\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xs.jpeg 640w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-sm.jpeg 768w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-md.jpeg 1024w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-lg.jpeg 1366w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xl.jpeg 1600w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-2xl.jpeg 1920w\"></figure>\n<p>Server Name: CCentral Priv Valheim </p>\n",
+            "content_html": "<figure class=\"post__image post__image--left align-left\"><img loading=\"lazy\"  src=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/Valheim-CCentral-Pic.jpeg\" alt=\"\" width=\"200\" height=\"200\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xs.jpeg 640w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-sm.jpeg 768w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-md.jpeg 1024w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-lg.jpeg 1366w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-xl.jpeg 1600w ,https://uncensoredcobra.github.io/CCentral-Game-Servers-Website/media/posts/1/responsive/Valheim-CCentral-Pic-2xl.jpeg 1920w\"></figure>\n<p>Server Name: CCentral Priv Valheim </p>\n\n<p>Password: <span class=\"blurred-text\">In Discord (Nichos Server).</span></p>",
+            "author": {
+                "name": "Admin@CCentral"
+            },
+            "tags": [
+                   "Servers"
             ],
             "date_published": "2026-09-11T20:21:59-04:00",
-            "date_modified": "2026-09-11T20:21:59-04:00"
+            "date_modified": "2026-09-12T09:38:43-04:00"
         }
     ]
 }
